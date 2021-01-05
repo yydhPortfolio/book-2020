@@ -6,7 +6,7 @@ JSP를 이용한 도서등록프로그램 구현
 
 
 <h2>메인화면</h2>
-<img src="https://user-images.githubusercontent.com/51257552/103616881-96363b00-4f70-11eb-8284-f7e4ecda097e.png"></img>
+<img src="https://user-images.githubusercontent.com/51257552/103618209-e8785b80-4f72-11eb-99b7-7828608d536b.png"></img>
 
 
 <h2>수정화면</h2>
